@@ -33,7 +33,7 @@ OBS Virtual Camera를 활용해 Zoom, Google Meet 등의 화상 회의 플랫폼
 | `p5.js`   | 인터페이스, 드로잉, 버튼 등 시각 구현 |
 | `ml5.js`  | 손가락 위치 인식 (handpose 모델) |
 | `OBS` + Virtual Camera | 화면을 Zoom으로 송출 |
-| `HTML/CSS/JS` | 기본 웹 구조 |
+
 
 ---
 
